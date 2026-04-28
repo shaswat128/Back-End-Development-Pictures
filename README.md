@@ -1,8 +1,23 @@
-# Back-End-Development-Pictures
+## Environment Setup
 
-This repository contains images and diagrams related to backend development.
+This project was created using the provided template repository.
 
-## Topics
-- APIs
-- Databases
-- System Design
+### Setup خطوات (Steps)
+
+* Ran the setup script successfully:
+
+  ```bash
+  bin/setup.sh
+  ```
+* Python version used:
+
+  ```bash
+  Python 3.9.x
+  ```
+* Virtual environment name:
+
+  ```bash
+  backend-pics-venv
+  ```
+
+The environment was initialized successfully and is ready for development.
